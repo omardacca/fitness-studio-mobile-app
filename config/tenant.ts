@@ -1,0 +1,1 @@
+export const TENANT_ID = process.env.EXPO_PUBLIC_TENANT_ID ?? '';
